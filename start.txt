@@ -1,6 +1,0 @@
-Test Git Quick Start demo
-
-
-Test
-
-Sprememba z GitHub-a!!
