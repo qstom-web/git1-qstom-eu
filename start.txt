@@ -3,6 +3,8 @@ Test Git Quick Start demo
 
 Test 28.3.2018
 
-Test2
+Test2Test s čisto drugega računalnika
 
 Test3
+
+
